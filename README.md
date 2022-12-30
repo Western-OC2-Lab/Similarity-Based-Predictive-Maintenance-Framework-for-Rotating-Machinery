@@ -9,7 +9,7 @@ Classical classification approaches use supervised learning where a classifier i
 purpose. In this paper, this problem is tackled by addressing the classification task as a similarity measure to a reference sample rather than a supervised classification task. Similarity-based approaches require a limited amount of labeled data and hence, meet the requirements of real-world industrial applications. Accordingly, the paper introduces a similarity-based framework for predictive maintenance (PdM) of rotating machinery. 
 
 <p float>
-<img src="[https://github.com/Western-OC2-Lab/Vibration-Based-Fault-Diagnosis-with-Low-Delay/blob/main/Figure_01.png](https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/genral_framework.png)"/> 
+<img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/genral_framework.png"/> 
 </p>
 
 The main aspects of the framework are feature extraction and similarity measure. Extracted features should be selected so that they satisfy two main conditions
@@ -24,7 +24,7 @@ To perform similarity measure, a reference sample from each operational conditio
 quantitative value, it can be used to assess the probability that the reference sample and test sample belong to the same operational condition. The higher the similarity, the higher the probability that they belong to the same condition. For more details, please refer to [the paper.](https://ieeexplore.ieee.org/document/9855510)<bR>
   
 <p>
-<img src="https://github.com/Western-OC2-Lab/Vibration-Based-Fault-Diagnosis-with-Low-Delay/blob/main/Figure_02.png"/> 
+<img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/stft_vs_fft.png"/> 
 </p>  
   
 The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter). A Jupyter notebook is provided for the code. a Function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
