@@ -3,7 +3,8 @@
 This is the code for the paper entitled "**Similarity-Based Predictive Maintenance Framework for Rotating Machinery**", presented in The Fifth International Conference on Communications, Signal Processing, and their Applications (ICCSPA’22), Cairo, Egypt, 27-29 December 2022. <br>
 Authors: Sulaiman Aburakhia, Tareq, Tayeh, Ryan Myers, and Abdallah Shami. <br>
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University, London, Canada. <br>
-**The paper received the ICCSPA'22 Best Paper Award**
+
+**The paper received the ICCSPA'22 Best Paper Award.**
 
 Classical classification approaches use supervised learning where a classifier is trained on labeled data to predict or classify different operational states of the machine. However, in most industrial applications, labeled data is limited in terms of its size and type. Hence, it cannot serve the training
 purpose. In this paper, this problem is tackled by addressing the classification task as a similarity measure to a reference sample rather than a supervised classification task. Similarity-based approaches require a limited amount of labeled data and hence, meet the requirements of real-world industrial applications. Accordingly, the paper introduces a similarity-based framework for predictive maintenance (PdM) of rotating machinery. 
