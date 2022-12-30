@@ -6,8 +6,7 @@ Organization: The Optimized Computing and Communications (OC2) Lab, ECE Departme
 
 **The paper received the ICCSPA'22 Best Paper Award.**
 
-Within smart manufacturing, data driven techniques are commonly adopted for condition monitoring and fault diagnosis of rotating machinery.Classical approaches use supervised learning where a classifier is trained on labeled data to predict or classify different operational states of the machine. However, in most industrial applications, labeled data is limited in terms of its size and type. Hence, it cannot serve the training
-purpose. In this paper, this problem is tackled by addressing the classification task as a similarity measure to a reference sample rather than a supervised classification task. Similarity-based approaches require a limited amount of labeled data and hence, meet the requirements of real-world industrial applications. Accordingly, the paper introduces a similarity-based framework for predictive maintenance (PdM) of rotating machinery. 
+Within smart manufacturing, data driven techniques are commonly adopted for condition monitoring and fault diagnosis of rotating machinery.Classical approaches use supervised learning where a classifier is trained on labeled data to predict or classify different operational states of the machine. However, in most industrial applications, labeled data is limited in terms of its size and type. Hence, it cannot serve the training purpose. In this paper, this problem is tackled by addressing the classification task as a similarity measure to a reference sample rather than a supervised classification task. Similarity-based approaches require a limited amount of labeled data and hence, meet the requirements of real-world industrial applications. Accordingly, the paper introduces a similarity-based framework for predictive maintenance (PdM) of rotating machinery. 
 
 <p float>
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/genral_framework.png"/> 
@@ -28,7 +27,7 @@ quantitative value, it can be used to assess the probability that the reference 
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/stft_vs_fft.png"/> 
 </p>  
   
-The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter). A Jupyter notebook is provided for the code. a Function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
+The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter), and Jupyter notebook code is provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
 
 
 ## Contact Information
