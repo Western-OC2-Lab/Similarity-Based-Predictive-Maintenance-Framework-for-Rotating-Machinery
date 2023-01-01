@@ -23,9 +23,11 @@ To perform similarity measure, a reference sample from each operational conditio
 quantitative value, it can be used to assess the probability that the reference sample and test sample belong to the same operational condition. The higher the similarity, the higher the probability that they belong to the same condition. For more details, please refer to [the paper.](https://ieeexplore.ieee.org/document/9855510)<bR>
   
 <p>
-<img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/stft_vs_fft.png"/> 
+<img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/FFT.png"/> 
 </p>  
-  
+<p>
+<img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/STFT.png"/> 
+</p>  
 The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter). The framework is implemented in Python and Jupyter notebook provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
 
 
