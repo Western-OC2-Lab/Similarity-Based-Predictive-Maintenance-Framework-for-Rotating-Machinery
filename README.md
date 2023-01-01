@@ -12,8 +12,7 @@ Within smart manufacturing, data driven techniques are commonly adopted for cond
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/genral_framework.png"/> 
 </p>
 
-The main aspects of the framework are feature extraction and similarity measure. Extracted features should be selected so that they satisfy two main conditions
-
+The main aspects of the framework are feature extraction and similarity measure. Extracted features should be selected so that they satisfy two main conditions:
 <ul>
 <li>Describe the inherent characteristics of all operational conditions “classes” in the data.
 <li>Have high-discrimination degree between the different operational conditions in the data. 
@@ -27,7 +26,7 @@ quantitative value, it can be used to assess the probability that the reference 
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/stft_vs_fft.png"/> 
 </p>  
   
-The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter), and Jupyter notebook code is provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
+The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter). The framework is implemented in Python and Jupyter notebook provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
 
 
 ## Contact Information
