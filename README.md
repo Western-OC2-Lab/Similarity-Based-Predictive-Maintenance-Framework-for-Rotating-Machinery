@@ -44,7 +44,7 @@ Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAA
 
 If you find this repository useful in your research, please cite as:
 
-S. A. Aburakhia, T. Tayeh, R. Myers and A. Shami, "Similarity-Based Predictive Maintenance Framework for Rotating Machinery", the Fifth International Conference on Communications, Signal Processing, and their Applications (ICCSPA’22), Cairo, Egypt, 27-29 December 2022.
+S. Aburakhia, T. Tayeh, R. Myers and A. Shami, "Similarity-Based Predictive Maintenance Framework for Rotating Machinery,"2022 5th International Conference on Communications, Signal Processing, and their Applications (ICCSPA), Cairo, Egypt, 2022, pp. 1-6, doi: 10.1109/ICCSPA55860.2022.10019121.
 
 
 
