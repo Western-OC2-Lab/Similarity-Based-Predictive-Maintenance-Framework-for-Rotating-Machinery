@@ -20,7 +20,7 @@ The main aspects of the framework are feature extraction and similarity measure.
 </ul>
 
 To perform similarity measure, a reference sample from each operational condition (class) should be available. Since the similarity measure provides a
-quantitative value, it can be used to assess the probability that the reference sample and test sample belong to the same operational condition. The higher the similarity, the higher the probability that they belong to the same condition. For more details, please refer to [the paper.](https://arxiv.org/abs/2212.14550)<bR>
+quantitative value, it can be used to assess the probability that the reference sample and test sample belong to the same operational condition. The higher the similarity, the higher the probability that they belong to the same condition. For more details, please refer to [the paper.](https://ieeexplore.ieee.org/document/10019121)<bR>
   
 <p>
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/FFT.png"/> 
