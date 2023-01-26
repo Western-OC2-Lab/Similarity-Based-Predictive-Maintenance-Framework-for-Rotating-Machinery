@@ -46,6 +46,17 @@ If you find this repository useful in your research, please cite as:
 
 S. Aburakhia, T. Tayeh, R. Myers and A. Shami, "Similarity-Based Predictive Maintenance Framework for Rotating Machinery,"2022 5th International Conference on Communications, Signal Processing, and their Applications (ICCSPA), Cairo, Egypt, 2022, pp. 1-6, doi: 10.1109/ICCSPA55860.2022.10019121.
 
+```
+@INPROCEEDINGS{10019121,
+  author={Aburakhia, Sulaiman and Tayeh, Tareq and Myers, Ryan and Shami, Abdallah},
+  booktitle={2022 5th International Conference on Communications, Signal Processing, and their Applications (ICCSPA)}, 
+  title={Similarity-Based Predictive Maintenance Framework for Rotating Machinery}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICCSPA55860.2022.10019121}}
+```
 
 
 ## Publication
