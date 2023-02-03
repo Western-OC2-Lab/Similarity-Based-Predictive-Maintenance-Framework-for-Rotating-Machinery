@@ -28,7 +28,8 @@ quantitative value, it can be used to assess the probability that the reference 
 <p>
 <img src="https://github.com/Western-OC2-Lab/Similarity-Based-Predictive-Maintenance-Framework-for-Rotating-Machinery/blob/main/STFT.png"/> 
 </p>  
-The Performance of the proposed method is evaluated on [the Case Western Reserve University bearing dataset](https://engineering.case.edu/bearingdatacenter). The framework is implemented in Python and Jupyter notebook provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
+
+ The Performance of the proposed method is evaluated on [the Case Western Reserve University (CWRU) bearing dataset](https://engineering.case.edu/bearingdatacenter). The framework is implemented in Python and Jupyter notebook provided. A function for processing .mat vibration files and creating the dataset is included in the notebook as well.<br>
 
 
 ## Contact Information
